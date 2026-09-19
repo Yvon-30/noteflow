@@ -48,6 +48,7 @@
 
 ## 📂 Structure du projet
 
+```
 noteflow/
 ├── lib/
 │ ├── main.dart # Point d'entrée
@@ -71,6 +72,8 @@ noteflow/
 │ └── 06_suppression.jpeg
 ├── pubspec.yaml # Dépendances
 └── README.md
+
+```
 
 ---
 
