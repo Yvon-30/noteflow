@@ -62,6 +62,13 @@ noteflow/
 │ ├── liste_notes.dart # Liste + recherche + FAB
 │ ├── note_edition.dart # Ajout / Modification
 │ └── confirmation_suppression.dart # Popup de confirmation
+├── captures/ # Captures d'écran
+│ ├── 01_connexion.jpeg
+│ ├── 02_creation_compte.jpeg
+│ ├── 03_liste_notes.jpeg
+│ ├── 04_ajout_note.jpeg
+│ ├── 05_modification.jpeg
+│ └── 06_suppression.jpeg
 ├── pubspec.yaml # Dépendances
 └── README.md
 
